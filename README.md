@@ -1,3 +1,3 @@
 # Basic Calculater
 
-# Using HTML , CSS , JavaScript technologies I have build Simple yet useful Application
+# Using HTML , CSS , JavaScript technologies I have build Simple but useful Application
