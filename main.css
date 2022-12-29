@@ -1,0 +1,11 @@
+.final_div {
+  position: absolute;
+  top: 30%;
+  left: 45%;
+}
+
+.main_div {
+  background-color: #ffbb1bc7;
+  height: 120px;
+  width: 100%;
+}
